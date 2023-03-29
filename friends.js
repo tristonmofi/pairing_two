@@ -6,3 +6,8 @@ console.log(arrays[4]);
 
 console.log(arrays[0]);
 
+var places = ["Denver", "Chicage", "Italy", "Spain", "France"]
+
+places.pop();
+
+console.log(places);
